@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Product Review API</title>
-</head>
 <body>
 
   <h1>🛍️ Product Review API</h1>
@@ -145,8 +141,8 @@ python manage.py createsuperuser
   <h2>📧 Contact</h2>
   <p>
     Developer: Sreeraj P<br />
-    Email: <a href="mailto:sreeraj@example.com">sreeraj@example.com</a><br />
-    GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a>
+    Email: <a href="mailto:sreerajporukandy@gmail.com">sreerajporukandy@gmail.com</a><br />
+    GitHub: <a href="https://github.com/srreeraj">github.com/srreeraj</a>
   </p>
 
 </body>
