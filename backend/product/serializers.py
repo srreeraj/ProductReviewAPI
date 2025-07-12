@@ -3,7 +3,7 @@ from .models import Product
 from review.models import Review
 
 class ProductSerializer(serializers.ModelSerializer):
-    average_rating = serializers.SerializersMethodField()
+    average_rating = serializers.SerializerMethodField()
 
     class Meta:
         model = Product
