@@ -1,7 +1,7 @@
 from rest_framework import viewsets
 from .models import Product
 from .serializers import ProductSerializer
-from rest_framework.persmissions import BasePermission, SAFE_METHODS
+from rest_framework.permissions import BasePermission, SAFE_METHODS
 # Create your views here.
 
 class IsAdminUserOrReadOnly(BasePermission):
